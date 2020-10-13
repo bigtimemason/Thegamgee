@@ -54,6 +54,12 @@ input {
  
 }
 
+textarea {
+  border-radius: 160px;
+  border-width: 3px;
+  
+}
+
 
 
 
