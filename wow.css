@@ -53,11 +53,15 @@ input {
   border-radius: 8px;
   font-family: "Baskervville";
   width: 100px;
-  border-color: #d6d6d6;
-  
- 
- 
 }
+
+
+button {
+  border-color: #c9c9c9;
+  
+}
+
+
 
 textarea {
   border-radius: 4px;
