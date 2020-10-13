@@ -50,7 +50,7 @@ video {
 
 container {
   border-width: 7px;
-  border-radius: 10px;
+  border-radius: 160px;
 }
 
 
@@ -219,9 +219,7 @@ button:hover {
 }
 
 /* Add padding to container elements */
-.container {
-  padding: 16px;
-}
+
 
 /* Clear floats */
 .clearfix::after {
@@ -258,10 +256,7 @@ button:hover {
 
 
 
-/* Bordered form */
-form {
-  border: 3px solid #f1f1f1;
-}
+
 
 /* Full-width inputs */
 input[type=text], input[type=password] {
