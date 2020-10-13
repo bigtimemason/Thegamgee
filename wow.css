@@ -48,8 +48,9 @@ video {
 }
 
 
-input {
+container {
   border-width: 7px;
+  border-radius: 60px;
 }
 
 
