@@ -51,14 +51,13 @@ video {
 input {
   border-width: 3px;
   border-radius: 8px;
-  padding: 0px;
+ 
  
 }
 
 textarea {
   border-radius: 3px;
   border-width: 3px;
-  padding: 60px;
   font-family: "Helvetica";
   
 }
