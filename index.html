@@ -153,7 +153,39 @@
                             
                             
                             
-                            <div class="row">
-  <div class="column"></div>
-  <div class="column"></div>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+
+
+
+<div class="row">
+  <div class="column" style="background-color: #FFFFF7;">
+    <h2>The Home of Thought.</h2>
+    <p>some other stuff that is a test test test tets tetts tet ste asjhd ojhsd a</p>
+  </div>
+  <div class="column" style="background-color:#FFFFF7;">
+    <h2>The Palace of Virtue.</h2>
+    <p>the palace nand something somethong something someting something something</p>
+  </div>
 </div>
