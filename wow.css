@@ -7,7 +7,16 @@ p {
 font-family: 'Work Sans', sans-serif;
 
 
-
+@media screen and (max-width: 900px) {
+   .col {
+      width: 50%;
+   }
+}
+@media screen and (max-width: 600px) {
+   .col {
+      width: 100%;
+   }
+}
 
 
 
