@@ -43,13 +43,6 @@ body {
 }
 
 
-header {
-  background-color: red;
-  height: 200px;
-  width: 1920px;
-  max-width: 1920px;
-  
-}
 
 .main {
   display: flex;
