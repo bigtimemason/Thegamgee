@@ -46,8 +46,9 @@ body {
 header {
   background-color: red;
   height: 200px;
-  width: 1000px;
-  text-align: center;
+  width: 1920px;
+  max-width: 1920px;
+  
 }
 
 .main {
